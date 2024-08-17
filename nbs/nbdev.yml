@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-game"
+  site-url: "https://Qwarkster.github.io/nbdev-game"
+  description: "An HTML demo game"
+  repo-branch: main
+  repo-url: "https://github.com/Qwarkster/nbdev-game"
